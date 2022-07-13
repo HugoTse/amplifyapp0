@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "notesapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/hugotp/Desktop/AWS Record/6 Sunit/20220707 Testing/amplifyapp0/amplify/backend/api/notesapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-07-20T19:25:22.379Z",
+      "keyDescription": "demo"
+    }
+  }
+}
